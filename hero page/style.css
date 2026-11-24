@@ -1,0 +1,58 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+body{
+justify-content: center;
+/* text-align: center; */
+background-image:url(./image/Lavender\ Journey\ Toward\ Tomorrow.png);
+}
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style:italic;
+    font-weight: 700;
+    text-decoration: wavy;
+    font-size: 100px;
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: -2px -3px 7px plum;
+    /* justify-content: space-around;// */
+    color: blueviolet;
+}
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style:italic;
+    font-weight: 700;
+    text-decoration: wavy;
+    font-size: 65px;
+    /* text-align: center; */
+    text-transform: initial;
+    text-shadow: -2px -3px 7px plum;
+    /* justify-content: space-around;// */
+    color: rgb(59, 44, 73);
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.btn{
+    text-align: center;
+    margin-left: 500px;
+    margin-top: 100px;
+    padding: 30px 50px  30px 50px;
+    /* margin: 50%; */
+    justify-content: space-around;
+    background-color: blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    font-style: italic;
+    border: 3px solid plum;
+    border-radius: 50px;
+}
+a{
+    color: blanchedalmond;
+    text-decoration: none;
+    text-shadow: -3px -3px 9px plum;
+}

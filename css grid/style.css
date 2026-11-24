@@ -1,0 +1,15 @@
+.grid-container{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 200px 200px 200px;
+    gap:1em;
+}
+
+.Item{
+    background-color: blue;
+    text-align: center;
+    padding: 2em;
+    font-size: 1em;
+    color: white;
+    border: 8px;
+}

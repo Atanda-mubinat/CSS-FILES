@@ -1,0 +1,61 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+/* 
+/* h2{
+    display: inline; */
+/* } */
+/* nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: bisque;
+    align-items: center;
+}
+h1{
+    margin-left: 40px;
+    font-size:40px;
+    font-weight: 500; */
+
+
+ /* ul li{
+    
+    display: inline; */
+    /* gap: 50px;
+} */
+/* ul{
+    display: flex;
+    list-style: none;
+    gap: 40px;
+}
+#btn{
+    padding: 10px;
+    border-radius: 10px;
+    background-color:bisque;
+    border: 3px solid white;
+    margin-right: 50px;
+    text-shadow: 20px,20px 40px brown; */
+    /* height: 20px; */
+
+/* body{
+    background-color: rgb(182, 145, 167);
+}
+
+.head{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    font-weight: 600;
+    /* margin: center; */
+    /* text-align: center; */
+    /* align-items: center;
+    margin-top: 30px;
+    font-style: italic; */
+
+
+/* goggle */
+{
+    display: flex;
+    display: inline;
+}

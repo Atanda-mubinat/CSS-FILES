@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+section{
+    display: flex;
+    justify-content: space-evenly;
+    max-width: 100%;
+}
+
+div{
+    width: 400px;
+}
+div img{
+    width: 500px;
+    height: 400px;
+}
+/* 
+main{
+    justify-content: space-around;
+    display: flex;
+    max-width: 100%;
+} */
+
+@media(max-width:440px ){
+ section{
+    display: flex;
+    max-width: 100px;
+ }
+ div img{
+    width: 300px;
+ }
+}
+
+
+@media(max-width:1032px
+){
+    section{
+        display: grid;
+        grid-template-rows: 1fr 1fr;
+        grid-template-columns: 1fr 1fr ;
+    }
+}

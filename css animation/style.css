@@ -1,0 +1,44 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+
+.img1{
+    animation:img 2s ease-in infinite ;
+}
+
+.img2{
+    margin-top: 10px;
+    animation: image   6s ease-in-out infinite alternate;
+}
+.flex{
+display: flex;
+}
+
+img{
+    margin: 50px;
+    width: 100px;
+    height: 100px;
+}
+
+@keyframes img{
+    from {
+        transform: scale(0);
+    }
+    to{
+        transform: scale(2);
+    }
+
+}
+
+@keyframes image{
+    from{
+        translate: 0px;
+    }
+    to{
+        translate:400PX ;
+    }
+}

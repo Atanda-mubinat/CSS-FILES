@@ -1,0 +1,142 @@
+.{
+    margin:0px ;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.box{
+    width: 300px;
+    height: 300px;
+    /* background-color: rgba(0, 0, 0,0.3); */
+    background-color: #ef1f9a;
+    background-color: rgb(239,31,154);
+}
+
+.gog{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:  0px 20px;
+    background-color: #e1dfe0;
+}
+
+.img{
+    width: 30px;
+    margin-right: 10px;
+}
+
+ul li{
+    display: inline;
+}
+
+li a{
+    text-decoration: none;
+    color: gray;
+    margin-right: 70px;
+    padding: 0px 15px;
+}
+
+.gog h2{
+    /* margin-right: px; */
+    /* background-color: blue; */
+    gap: 2;
+}
+
+button{
+    border: 1px solid black;
+    padding: 8px 19px;
+    text-align: center;
+    background-color: transparent;
+}
+
+.word{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #e4e2e3;
+
+}
+.word p{
+    font-size: 16px;
+    font-weight: 500;
+}
+#btt a{
+    background-color:#1A73E8;
+    /* padding: 12px 50px; */
+    color: white;
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    /* border: 2px transparent; */
+    /* border-radius: 7px; */
+    text-decoration: none;
+}
+
+#btt{
+    background-color:#1A73E8;
+    padding: 12px 50px;
+    color: white;
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    border: 2px transparent;
+    border-radius: 7px;   
+}
+
+.div2{
+    background-color: rgb(245, 86, 28);
+
+    height: 60px;
+    margin-top: 0px;
+    /* align-self: center; */
+    /* align-items: center; */align-content: center;
+    /* border: 2pz solid firebrick; */
+
+}
+.h4{
+    font-size: 18px;
+    font-weight: 400;
+     /* padding: 20px,20px; */
+     margin-right: 30px;
+}
+.git{
+color: black;
+}
+
+
+/* main section */
+main{
+    display: flex;
+
+}
+.laptop{
+    width: 590px;
+    /* align-items: center; */
+    padding: 10px 20px;
+}
+h1{
+    font-size: 44px;
+    font-weight: 400;
+    font-family: sans-serif;
+    margin-bottom: 10px;
+}
+.para1{
+    font-size: 16px;
+    font-weight: 400px;
+}
+
+.div3{
+    margin-left: 15px;
+}
+.stay{
+    background-color: skyblue;
+    font-size: 14px;
+    font-weight: 400;
+    margin-bottom: 15px;
+    padding: 15px 20px;
+}
+#btn3 {
+    background-color: #1A73E8;
+    padding: 5px,20px;
+}
+

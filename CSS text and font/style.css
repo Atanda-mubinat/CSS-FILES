@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box
+}
+
+.header{
+    font-family:"Google Sans Flex", sans-serif;;
+    /* text-align: center; */
+    font-size: 4rem;
+    color: #605E96;
+    text-indent: 70px;
+    font-weight: 100;
+    font-style: italic;
+    text-decoration:underline;
+    text-shadow: 5px 5px 10px  black;
+ 
+ 
+}
+
+input{
+    text-transform: uppercase;
+}
